@@ -12,7 +12,7 @@ row_sums = np.sum(matrix, axis=1)
 print("Row sums using NumPy:", row_sums)
 
 # Sum of columns
-col_sums = np.sum(matrix, axis=0)
+    col_sums = np.sum(matrix, axis=0)
 print("Column sums using NumPy:", col_sums)
 
 
